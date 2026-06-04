@@ -6,18 +6,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm passionate about Artificial Intelligence, Machine Learning, Data Science, Computer Vision, and Software Development.
 
 Currently focusing on:
 
-- 🤖 Machine Learning & Deep Learning
-- 📊 Data Science & Data Analytics
-- 👁️ Computer Vision
-- 📱 Android Development (Kotlin)
-- 🌐 Web Development (PHP & MySQL)
-- 🧠 Natural Language Processing
+-  Machine Learning & Deep Learning
+-  Data Science & Data Analytics
+-  Computer Vision
+-  Android Development (Kotlin)
+-  Web Development (PHP & MySQL)
+-  Natural Language Processing
 
 ---
 
@@ -53,7 +53,7 @@ Currently focusing on:
 
 ## 📌 Featured Projects
 
-### 😄 Facial Emotion Recognition Using CNN
+###  Facial Emotion Recognition Using CNN
 
 Deep Learning project for facial emotion classification using Convolutional Neural Networks (CNN) with image preprocessing and optimization techniques.
 
@@ -61,7 +61,7 @@ Deep Learning project for facial emotion classification using Convolutional Neur
 
 ---
 
-### 🏥 Medical Chatbot with NLG
+###  Medical Chatbot with NLG
 
 Medical Question Answering chatbot built using Streamlit and Natural Language Generation (NLG) approach with CancerGov QA dataset.
 
@@ -69,7 +69,7 @@ Medical Question Answering chatbot built using Streamlit and Natural Language Ge
 
 ---
 
-### 📊 Customer Churn Prediction
+###  Customer Churn Prediction
 
 Machine Learning model for predicting customer churn using classification algorithms and feature engineering techniques.
 
@@ -77,7 +77,7 @@ Machine Learning model for predicting customer churn using classification algori
 
 ---
 
-### 📱 UFound - Lost & Found Mobile App
+###  UFound - Lost & Found Mobile App
 
 Android application for reporting and finding lost items using Firebase Authentication and Firestore Database.
 
@@ -85,24 +85,7 @@ Android application for reporting and finding lost items using Firebase Authenti
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikelwp&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikelwp&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Current Goals
-
-- Learning Advanced Deep Learning
-- Building End-to-End Machine Learning Projects
-- Exploring MLOps & Model Deployment
-- Improving Computer Vision Applications
-
----
-
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: https://github.com/mikelwp
 - LinkedIn: https://www.linkedin.com/in/michael-williamp/
