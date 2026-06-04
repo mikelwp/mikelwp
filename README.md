@@ -89,7 +89,7 @@ Android application for reporting and finding lost items using Firebase Authenti
 
 Full-stack e-commerce web application featuring product management, authentication, database integration, and responsive user experience.
 
-**Tech** PHP, MySQL, HTML, CSS, JavaScript
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript
 
 ---
 
