@@ -85,6 +85,14 @@ Android application for reporting and finding lost items using Firebase Authenti
 
 ---
 
+Makena – Fashion E-Commerce Website
+
+Full-stack e-commerce web application featuring product management, authentication, database integration, and responsive user experience.
+
+**Tech** PHP, MySQL, HTML, CSS, JavaScript
+
+---
+
 ##  Connect With Me
 
 - GitHub: https://github.com/mikelwp
